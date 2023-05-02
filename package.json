@@ -2,7 +2,7 @@
     "name": "@youwol/npm-explorer",
     "description": "",
     "version": "0.1.0-wip",
-    "author": null,
+    "author": "greinisch@youwol.com",
     "homepage": "https://github.com/youwol/npm-explorer#README.md",
     "main": "dist/index.html",
     "types": "src/index.ts",
