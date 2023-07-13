@@ -134,6 +134,10 @@ class UpgradeAvailableView {
     }
 }
 class PackageNotAvailableView {
+    public readonly tag = 'a'
+    public readonly target = '_blank'
+    public readonly href =
+        'https://github.com/youwol/cdn-externals/issues/new/choose'
     public readonly class = 'border p-2 d-flex align-items-center fv-pointer'
     public readonly style = {
         width: 'fit-content',
