@@ -1,6 +1,6 @@
 {
     "name": "@youwol/npm-explorer",
-    "description": "",
+    "description": "Explorer of NPM packages in relation with WebPM.",
     "version": "0.1.0-wip",
     "author": "greinisch@youwol.com",
     "homepage": "https://github.com/youwol/npm-explorer#README.md",
