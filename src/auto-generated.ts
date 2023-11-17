@@ -53,7 +53,7 @@ export const setup = {
     name:'@youwol/npm-explorer',
         assetId:'QHlvdXdvbC9ucG0tZXhwbG9yZXI=',
     version:'0.1.0-wip',
-    shortDescription:"",
+    shortDescription:"Explorer of NPM packages in relation with WebPM.",
     developerDocumentation:'https://platform.youwol.com/applications/@youwol/cdn-explorer/latest?package=@youwol/npm-explorer&tab=doc',
     npmPackage:'https://www.npmjs.com/package/@youwol/npm-explorer',
     sourceGithub:'https://github.com/youwol/npm-explorer',
