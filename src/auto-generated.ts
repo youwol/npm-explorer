@@ -3,16 +3,16 @@ const runTimeDependencies = {
     "externals": {
         "@youwol/cdn-client": "^1.0.2",
         "@youwol/flux-view": "^1.0.3",
-        "rxjs": "^6.5.5",
-        "@youwol/os-top-banner": "^0.1.2"
+        "@youwol/os-top-banner": "^0.1.2",
+        "rxjs": "^6.5.5"
     },
     "includedInBundle": {}
 }
 const externals = {
     "@youwol/cdn-client": "window['@youwol/cdn-client_APIv1']",
     "@youwol/flux-view": "window['@youwol/flux-view_APIv1']",
-    "rxjs": "window['rxjs_APIv6']",
-    "@youwol/os-top-banner": "window['@youwol/os-top-banner_APIv01']"
+    "@youwol/os-top-banner": "window['@youwol/os-top-banner_APIv01']",
+    "rxjs": "window['rxjs_APIv6']"
 }
 const exportedSymbols = {
     "@youwol/cdn-client": {
@@ -23,13 +23,13 @@ const exportedSymbols = {
         "apiKey": "1",
         "exportedSymbol": "@youwol/flux-view"
     },
-    "rxjs": {
-        "apiKey": "6",
-        "exportedSymbol": "rxjs"
-    },
     "@youwol/os-top-banner": {
         "apiKey": "01",
         "exportedSymbol": "@youwol/os-top-banner"
+    },
+    "rxjs": {
+        "apiKey": "6",
+        "exportedSymbol": "rxjs"
     }
 }
 
